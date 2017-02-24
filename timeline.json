@@ -1,22 +1,106 @@
 {
   "title": {
     "text": {
-      "headline": "This is a headline",
-      "text": "This is the text for the headline. It should be smaller."
+      "headline": "Elkhart Instructional Technology",
+      "text": "Founded in 2016, the Elkhart Instructional Technology team has worked to develop and grow teachers in digital instructional."
+    },
+    "media": {
+      "url": "https://images.pexels.com/photos/6565/apple-desk-laptop-working.jpg",
+      "credit": "CC0 from stockpic.com"
     }
   },
   "events": [
     {
       "start_date": {
-        "year": "1990"
+        "year": "2016",
+        "month": "7",
+        "day": "1"
       },
       "end_date": {
-        "year": "1995"
+        "year": "",
+        "month": "",
+        "day": ""
+      },
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
       },
       "text": {
-        "headline": "It's the 1990's",
-        "text": "There was some sweet music in the 90's. Like Spin Doctors."
-      }
+        "headline": "Technology Integration Specialist Team forms",
+        "text": "The first official meeting of the Technology Integration Specialists."
+      },
+      "background": {
+        "color": "",
+        "url": ""
+      },
+      "group": "Support"
+    },
+    {
+      "start_date": {
+        "year": "2016",
+        "month": "1"
+      },
+      "end_date": {
+        "year": "2016",
+        "month": "6"
+      },
+      "display_date": "January, 2016",
+      "text": {
+        "headline": "Tech Champion Teachers",
+        "text": "Teachers selected to participate in the Tech Champions program. Teachers were given a Chromebook to use. Completion earned a Chromebook cart in the fall of 2016."
+      },
+      "media": {
+        "url": "https://c1.staticflickr.com/9/8592/16837423496_582668a338_b.jpg",
+        "credit": "'Acer Chromebook 15' <a href='https://flickr.com/photos/pestoverde/16837423496'>flickr photo</a> by pestoverde shared under a Creative Commons (BY) license"
+      },
+      "group": "1:1 Selection"
+    },
+    {
+      "start_date": {
+        "year": "2016",
+        "month": "6",
+        "day": "10"
+      },
+      "text": {
+        "headline": "Google for Administrators",
+        "text": "Administrative support is essential for successful instructional changes. Our administrators have had workshops to help them understand what changes to expect in teachers' classrooms."
+      },
+      "media": {
+        "url": "<blockquote>Was dreading the Google training, but realized it's not as challenging as I thought. I am excited to use more than I have. Thank you for making it relevant and easy!</blockquote>",
+        "caption": "Jennifer Hinman, Assistant Principal, Bristol Elementary School"
+      },
+      "background": {
+        "color": "#666666",
+        "url": ""
+      },
+      "group": "Training"
+    },
+    {
+      "start_date": {
+        "year": "2016",
+        "month": "6",
+        "day": "6"
+      },
+      "end_date": {
+        "year": "2016",
+        "month": "6",
+        "day": "7"
+      },
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "text": {
+        "headline": "Canvas Basics",
+        "text": "Tech Champion teachers could elect to attend a half-day training on the Canvas LMS."
+      },
+      "background": {
+        "color": "",
+        "url": ""
+      },
+      "group": "Training"
     }
   ]
 }
