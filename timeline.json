@@ -1,0 +1,22 @@
+{
+  "title": {
+    "text": {
+      "headline": "This is a headline",
+      "text": "This is the text for the headline. It should be smaller."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": "1990"
+      },
+      "end_date": {
+        "year": "1995"
+      },
+      "text": {
+        "headline": "It's the 1990's",
+        "text": "There was some sweet music in the 90's. Like Spin Doctors."
+      }
+    }
+  ]
+}

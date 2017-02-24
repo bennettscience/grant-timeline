@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Testing TimelineJS3</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="css/timeline.css" />
+    <!-- Fonts -->
+    <link rel="stylesheet" href="css/fonts/font.default.css">
+    <!-- Style-->
+    <style>
+      html, body {
+        height:100%;
+        width:100%;
+        padding: 0px;
+        margin: 0px;
+      }
+      .tl-timeline {
+
+      }
+    </style>
+  </head>
+  <body>
+    <div id="timeline"></div>
+    <script src="timeline.js"></script>
+    <script type="text/javascript">
+      var timeline = new TL.Timeline('timeline', 'timeline.json')
+    </script>
+  </body>
+</html>
