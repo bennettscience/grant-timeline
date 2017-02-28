@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>IDOE 2017</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="css/timeline.css" />
+    <!-- Fonts -->
+    <link rel="stylesheet" href="css/fonts/font.fjalla-average.css">
+    <!-- Style-->
+    <style>
+      html, body {
+        height:100%;
+        width:100%;
+        padding: 0px;
+        margin: 0px;
+      }
+      .tl-timeline {
+
+      }
+    </style>
+  </head>
+  <body>
+    <div id="timeline"></div>
+    <script src="timeline.js"></script>
+    <script type="text/javascript">
+      var options = {
+        hash_bookmark: true,
+        scale_factor: 1,
+        zoom_sequence: 30
+      }
+      var timeline = new TL.Timeline('timeline', 'timeline.json')
+    </script>
+  </body>
+</html>
