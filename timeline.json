@@ -235,7 +235,7 @@
       "start_date": { "year":2016  ,"month": 9},
       "display_date": "September 2016",
       "text": { "headline": "Efficacy", "text": "On-demand support, communication, team efficiency" },
-      "media": { "url": "instructional.png", "credit": "<a title='Network' href='https://flickr.com/photos/jennifer-stylls/8012538039'>Network</a> flickr photo by <a href='https://flickr.com/people/jennifer-stylls'>Jennifer Stylls</a> shared under a <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/'>Creative Commons (BY-NC-ND) license</a> </small>" },
+      "media": { "url": "media/instructional.png", "credit": "<a title='Network' href='https://flickr.com/photos/jennifer-stylls/8012538039'>Network</a> flickr photo by <a href='https://flickr.com/people/jennifer-stylls'>Jennifer Stylls</a> shared under a <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/'>Creative Commons (BY-NC-ND) license</a> </small>" },
       "background": { "color": "", "url": "https://c1.staticflickr.com/9/8033/8012538039_0603ef72a8_b.jpg" },
       "group": "Support"
     }
