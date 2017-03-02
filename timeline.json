@@ -4,7 +4,7 @@
       "start_date": { "year": 2016,"month": 1,"day": 10},
       "end_date": { "year": 2016, "month": 6,"day": 1 },
       "display_date": "January 2016",
-      "media": { "url": "https://c1.staticflickr.com/9/8592/16837423496_582668a338_b.jpg", "credit": "Acer Chromebook 15' <a href='https://flickr.com/photos/pestoverde/16837423496 '>flickr photo</a> by pestoverde shared under a Creative Commons (BY) license"},
+      "media": { "url": "media/cb.jpg", "credit": "Acer Chromebook 15' <a href='https://flickr.com/photos/pestoverde/16837423496 '>flickr photo</a> by pestoverde shared under a Creative Commons (BY) license"},
       "text": { "headline": "Secondary Technology Champions Pilot", "text": "75 teachers selected to work toward earning a Chromebook cart." },
       "background": { "color": "", "url": "" },
       "group": "1:1 Selection"
@@ -14,7 +14,7 @@
       "display_date": "June 2016",
       "text": { "headline": "Google for administrators", "text": "Administrators trained in Google productivity tools." },
       "media": { "url": "<blockquote>[I was] dreading the Google training, but realized it's not as challenging as I thought. I am excited to use more than I have. Thank you for making it relevant and easy!</blockquote>", "credit": "", "caption": "Jennifer Hinman, Assistant Principal, Bristol Elementary School" },
-      "background": { "color": "", "url": "https://c1.staticflickr.com/1/654/32338211493_cb35f97e60_b.jpg" },
+      "background": { "color": "", "url": "media/pd1.jpg" },
       "group": "Training"
     },
     {
@@ -31,14 +31,14 @@
       "display_date": "July 2016",
       "text": { "headline": "Team Formation", "text": "The Technology Integration Team officially meets" },
       "media": { "url": "", "credit": "<a title='Urban zebras.' href='https://flickr.com/photos/bennettscience/31675621214'>Urban zebras.</a> flickr photo by <a href='https://flickr.com/people/bennettscience'>bennettscience</a> shared under a <a href='https://creativecommons.org/licenses/by/2.0/'>Creative Commons (BY) license</a> </small>" },
-      "background": { "color": "", "url": "https://c1.staticflickr.com/1/270/31675621214_fd80dfa0c0_b.jpg" },
+      "background": { "color": "", "url": "media/coats.jpg" },
       "group": "Support"
     },
     {
       "start_date": { "year": 2016 ,"month": 8,"day": 2 },
       "display_date": "August 2, 2016",
       "text": { "headline": "Chromebook carts delivered", "text": "Teachers who successfully compelted the TCT coursework received their Chromebook carts for the start of the fall semester." },
-      "media": { "url": "https://lh3.googleusercontent.com/-hbFAygW9S4I/WLXMrMegV2I/AAAAAAAAAuw/PnIP18Tbk5kaRxpGSolKgeE2dODZV7qGwCK8B/s512/2017-02-28.jpg", "credit": "Brian Bennett" },
+      "media": { "url": "media/carts.jpg", "credit": "Brian Bennett" },
       "background": { "color": "", "url": "" },
       "group": "1:1 Selection"
     },
@@ -47,7 +47,7 @@
       "end_date": { "year": 2016, "month": 10 ,"day": 4 },
       "display_date": "September 2016",
       "text": { "headline": "Phase 1, Cohort 1", "text": "Phase one of three for teachers wanting to work toward a device cart for their classrooms. 131 teachers in Cohort 1." },
-      "media": { "url": "https://c1.staticflickr.com/3/2828/32949125701_034def00df_b.jpg", "credit": "<a title='Teacher collaboration' href='https://flickr.com/photos/bennettscience/32949125701'>Teacher collaboration</a> flickr photo by <a href='https://flickr.com/people/bennettscience'>bennettscience</a> shared under a <a href='https://creativecommons.org/licenses/by/2.0/'>Creative Commons (BY) license</a> </small>" },
+      "media": { "url": "media/pd2.jpg", "credit": "<a title='Teacher collaboration' href='https://flickr.com/photos/bennettscience/32949125701'>Teacher collaboration</a> flickr photo by <a href='https://flickr.com/people/bennettscience'>bennettscience</a> shared under a <a href='https://creativecommons.org/licenses/by/2.0/'>Creative Commons (BY) license</a> </small>" },
       "background": { "color": "", "url": "" },
       "group": "Training"
     },
@@ -55,7 +55,7 @@
       "start_date": { "year": 2016 ,"month": 10 ,"day": 15 },
       "display_date": "October 15, 2016",
       "text": { "headline": "Phase 1, Cohort 2", "text": "51 teachers attended a 1-day Phase 1 workshop (8 hours)" },
-      "media": { "url": "https://c1.staticflickr.com/3/2732/32279871293_87d4701a2c_b.jpg", "credit": "Used by permission, (c) Wes Molyneaux" },
+      "media": { "url": "media/pd3.jpg", "credit": "Used by permission, (c) Wes Molyneaux" },
       "background": { "color": "", "url": "" },
       "group": "Training"
     },
@@ -63,7 +63,7 @@
       "start_date": { "year":  2016,"month": 10 ,"day": 11 },
       "display_date": "October 11, 2016",
       "text": { "headline": "1:1 Committee meeting", "text": "The first meeting of the 1:1 device selection committee. Comprised of administrators, teachers, technology services staff, and instructional technology specialists." },
-      "media": { "url": "https://c1.staticflickr.com/1/613/32308095394_fe6b77e5ba_b.jpg", "credit": "<a title='Meeting room' href='https://flickr.com/photos/bennettscience/32308095394'>Meeting room</a> flickr photo by <a href='https://flickr.com/people/bennettscience'>bennettscience</a> shared under a <a href='https://creativecommons.org/licenses/by/2.0/'>Creative Commons (BY) license</a> </small>" },
+      "media": { "url": "media/plc1.jpg", "credit": "<a title='Meeting room' href='https://flickr.com/photos/bennettscience/32308095394'>Meeting room</a> flickr photo by <a href='https://flickr.com/people/bennettscience'>bennettscience</a> shared under a <a href='https://creativecommons.org/licenses/by/2.0/'>Creative Commons (BY) license</a> </small>" },
       "background": { "color": "", "url": "" },
       "group": "1:1 Selection"
     },
@@ -72,7 +72,7 @@
       "end_date": { "year": 2016 , "month": 11,"day": 22},
       "display_date": "October 2016",
       "text": { "headline": "Phase 1, Cohort 3", "text": "61 teachers trained." },
-      "media": { "url": "https://c1.staticflickr.com/3/2929/33153491285_288108a2df_b.jpg", "credit": "Used by permission, (c) Wes Molyneaux" },
+      "media": { "url": "media/pd4.jpg", "credit": "Used by permission, (c) Wes Molyneaux" },
       "background": { "color": "", "url": "" },
       "group": "Training"
     },
@@ -80,7 +80,7 @@
       "start_date": { "year": 2016 ,"month": 10,"day": 17},
       "display_date": "October 2016",
       "text": { "headline": "Phase 2, Cohort 1", "text": "Phase II builds on the skills developed in Phase I. Teachers who complete this section receive 10 devices for their classroom." },
-      "media": { "url": "https://c1.staticflickr.com/3/2635/33094290495_d87b7e226f_b.jpg", "credit": "Used by permission, (c) Wes Molyneaux" },
+      "media": { "url": "media/pd5.jpg", "credit": "Used by permission, (c) Wes Molyneaux" },
       "background": { "color": "", "url": "" },
       "group": "Training"
     },
@@ -88,7 +88,7 @@
       "start_date": { "year": 2016 ,"month": 12,"day": 8},
       "display_date": "December 8, 2016",
       "text": { "headline": "Google Briefing", "text": "The 1:1 Selection Committee travelled to Chicago to learn more about Google's offerings with Chromebooks in education." },
-      "media": { "url": "https://c1.staticflickr.com/1/373/32397035135_df8883f264_b.jpg", "credit": "<a title='From above...' href='https://flickr.com/photos/bennettscience/32397035135'>From above...</a> flickr photo by <a href='https://flickr.com/people/bennettscience'>bennettscience</a> shared under a <a href='https://creativecommons.org/licenses/by/2.0/'>Creative Commons (BY) license</a> </small>" },
+      "media": { "url": "media/visit1.jpg", "credit": "<a title='From above...' href='https://flickr.com/photos/bennettscience/32397035135'>From above...</a> flickr photo by <a href='https://flickr.com/people/bennettscience'>bennettscience</a> shared under a <a href='https://creativecommons.org/licenses/by/2.0/'>Creative Commons (BY) license</a> </small>" },
       "background": { "color": "", "url": "" },
       "group": "1:1 Selection"
     },
@@ -97,7 +97,7 @@
       "display_date": "January 2017",
       "text": { "headline": "First 100 Days of School", "text": "<ul style='font-size:24px;font-weight:bold'><li>3500+ PGPs awarded</li><li>3,000+ Chromebooks deployed</li><li>700+ teachers trained</li></ul>" },
       "media": { "url": "", "credit": "<a title='Calendar' href='https://flickr.com/photos/b0xman/3697278061'>Calendar</a> flickr photo by <a href='https://flickr.com/people/b0xman'>boxman</a> shared under a <a href='https://creativecommons.org/licenses/by-nc/2.0/'>Creative Commons (BY-NC) license</a>" },
-      "background": { "color": "", "url": "https://c1.staticflickr.com/3/2602/3697278061_4514d51c03_b.jpg" },
+      "background": { "color": "", "url": "media/cal.jpg" },
       "group": "Support"
     },
     {
@@ -105,7 +105,7 @@
       "end_date": { "year": 2017, "month": 1,"day": 19 },
       "display_date": "January 2018",
       "text": { "headline": "Apple briefing", "text": "The 1:1 committee travelled to the Apple Executive Briefing Center in Chicago to learn about the iPad in education." },
-      "media": { "url": "https://c1.staticflickr.com/1/550/31577825064_7d01e0687a_b.jpg", "credit": "<a title='Look Up' href='https://c1.staticflickr.com/1/550/31577825064_7d01e0687a_b.jpg'>Look up</a> flickr photo by <a href='https://flickr.com/people/bennettscience'>bennettscience</a> shared under a <a href='https://creativecommons.org/licenses/by/2.0/'>Creative Commons (BY) license</a>" },
+      "media": { "url": "media/visit2.jpg", "credit": "<a title='Look Up' href='https://c1.staticflickr.com/1/550/31577825064_7d01e0687a_b.jpg'>Look up</a> flickr photo by <a href='https://flickr.com/people/bennettscience'>bennettscience</a> shared under a <a href='https://creativecommons.org/licenses/by/2.0/'>Creative Commons (BY) license</a>" },
       "background": { "color": "", "url": "" },
       "group": "1:1 Selection"
     },
@@ -114,7 +114,7 @@
       "display_date": "January 24, 2017",
       "text": { "headline": "1:1 Device Selection", "text": "The 1:1 Committee unanimously decides to purchase iPads as the student computing device in Elkhart's 1:1 program." },
       "media": { "url": "", "credit": "<a title='student_ipad_school - 250' href='https://flickr.com/photos/56155476@N08/6660155203'>student_ipad_school - 250</a> flickr photo by <a href='https://flickr.com/people/56155476@N08'>flickingerbrad</a> shared under a <a href='https://creativecommons.org/licenses/by/2.0/'>Creative Commons (BY) license</a> </small>" },
-      "background": { "color": "", "url": "https://c2.staticflickr.com/8/7028/6660155203_89ea6b862f_b.jpg" },
+      "background": { "color": "", "url": "media/ipad1.jpg" },
       "group": "Support"
     },
     {
@@ -122,7 +122,7 @@
       "display_date": "January 2017",
       "text": { "headline": "Monday Beginner classes", "text": "Introductory courses for tentative users are held every Monday on a variety of tools, mainly focusing on Google and Canvas and their use in the district." },
       "media": { "url": "", "credit": "" },
-      "background": { "color": "", "url": "http://big.assets.huffingtonpost.com/2014officespace3.gif" },
+      "background": { "color": "", "url": "" },
       "group": "Training"
     },
     {
@@ -130,7 +130,7 @@
       "end_date": { "year": 2017, "month": 3,"day":7 },
       "display_date": "February 2017",
       "text": { "headline": "Phase 1, Cohort 4", "text": "40 teachers, first group with iPads." },
-      "media": { "url": "https://c1.staticflickr.com/3/2791/33053236656_8fa41106e4_b.jpg", "credit": "Used by permission, (c) Wes Molyneaux" },
+      "media": { "url": "media/pd6.jpg", "credit": "Used by permission, (c) Wes Molyneaux" },
       "background": { "color": "", "url": "" },
       "group": "Training"
     },
@@ -139,7 +139,7 @@
       "end_date": { "year": 2017, "month":3 ,"day":30 },
       "display_date": "March 2017",
       "text": { "headline": "Phase 2, Cohort 2", "text": "81 teachers (planned)" },
-      "media": { "url": "https://c1.staticflickr.com/1/628/32279871653_6d5565bf50_b.jpg", "credit": "Used by permission, (c) Wes Molyneaux" },
+      "media": { "url": "media/pd7.jpg", "credit": "Used by permission, (c) Wes Molyneaux" },
       "background": { "color": "", "url": "" },
       "group": "Training"
     },
@@ -147,7 +147,7 @@
       "start_date": { "year": 2017 ,"month": 5,"day": 1},
       "display_date": "June 2017",
       "text": { "headline": "Instructional Cycle", "text": "Summer professional development and curriculum buidling." },
-      "media": { "url": "https://lh3.googleusercontent.com/-OfPkrQ-_d5s/WLCGjovOetI/AAAAAAAAAr8/zznz0_sanLA3Votk-1xxGHyA523VyebwACL0B/h720/2017-02-24.gif", "credit": "Brian Bennett" },
+      "media": { "url": "<iframe src='video.html'></iframe>", "credit": "Brian Bennett" },
       "background": { "color": "", "url": "" },
       "group": "Support"
     },
@@ -156,14 +156,14 @@
       "display_date": "October 2016",
       "text": { "headline": "Strategic Plan Adopted", "text": "Elkhart Community Schools commits to building digital resources for students." },
       "media": { "url": "", "credit": "(c) Elkhart Community Schools" },
-      "background": { "color": "", "url": "https://lh3.googleusercontent.com/-7OVMWnCk6Qw/WLXIK_kB7II/AAAAAAAAAuQ/78yiTWrbSIkJgSKT-VlAQakYIVNMfhnLACL0B/h981/Elkhart_Community_Schools_White_Crest_Only.gif" },
+      "background": { "color": "", "url": "media/ecs.png" },
       "group": "Support"
     },
     {
       "start_date": { "year": 2016,"month": 1},
       "display_date": "January 2016",
       "text": { "headline": "Canvas LMS", "text": "Canvas adopted as the LMS for Elkhart Community Schools" },
-      "media": { "url": "https://a6m4rf6fdx-flywheel.netdna-ssl.com/wp-content/uploads/2013/04/canvas_vertical.jpg", "credit": "(c) Canvas by Instructure" },
+      "media": { "url": "media/canvas.jpg", "credit": "(c) Canvas by Instructure" },
       "background": { "color": "", "url": "" },
       "group": "Support"
     },
@@ -171,7 +171,7 @@
       "start_date": { "year": 2016 ,"month": 3},
       "display_date": "March 2016",
       "text": { "headline": "G Suite", "text": "Teachers and students given access to all GSuite tools." },
-      "media": { "url": "http://meticul.com/blog/assets/g_suite-small-1.png", "credit": "Used by permission, (c) <a href='http://meticul.com'>Meticul Solutions</a>" },
+      "media": { "url": "media/gsuite.png", "credit": "Used by permission, (c) <a href='http://meticul.com'>Meticul Solutions</a>" },
       "background": { "color": "", "url": "" },
       "group": "Support"
     },
@@ -179,7 +179,7 @@
       "start_date": { "year":2016 ,"month":5  },
       "display_date": "May 2016",
       "text": { "headline": "Innovation Planning Grant", "text": "$30,000 from IDOE to prepare and plan implementation of a 1:1 learning program." },
-      "media": { "url": "http://www.doe.in.gov/sites/default/files/images/idoe_logo_student_success.png", "credit": "(c) IDOE" },
+      "media": { "url": "media/idoe.png", "credit": "(c) IDOE" },
       "background": { "color": "", "url": "" },
       "group": "Support"
     },
@@ -188,7 +188,7 @@
       "display_date": "June 2017",
       "text": { "headline": "Professional Development", "text": "Equipping teachers to design engaging digital curriculum." },
       "media": { "url": "", "credit": "Used by permission, (c) Wes Molyneaux" },
-      "background": { "color": "", "url": "https://c2.staticflickr.com/4/3889/32308264064_878d5a0c8e_b.jpg" },
+      "background": { "color": "", "url": "media/pd8.jpg" },
       "group": "Support"
     },
     {
@@ -196,7 +196,7 @@
       "display_date": "June 2017",
       "text": { "headline": "Curriculum Writing", "text": "Dedicated time to collaboatively curate master courses in Canvas." },
       "media": { "url": "", "credit": "<a title='IMG_20161114_135742' href='https://flickr.com/photos/bennettscience/32211150550'>IMG_20161114_135742</a> flickr photo by <a href='https://flickr.com/people/bennettscience'>bennettscience</a> shared under a <a href='https://creativecommons.org/licenses/by/2.0/'>Creative Commons (BY) license</a> </small>" },
-      "background": { "color": "", "url": "https://c1.staticflickr.com/1/528/32211150550_057cb23584_b.jpg" },
+      "background": { "color": "", "url": "media/wb.jpg" },
       "group": "Support"
     },
     {
@@ -204,7 +204,7 @@
       "display_date": "June 2017",
       "text": { "headline": "Device Purchases", "text": "Enable the Instructional Technology team to work more efficiently in supporting district-wide training and curriculum development." },
       "media": { "url": "", "credit": "<a title='Using iPads' href='https://flickr.com/photos/cogdog/27581522042'>Using iPads</a> flickr photo by <a href='https://flickr.com/people/cogdog'>cogdogblog</a> shared under a <a href='https://creativecommons.org/licenses/by/2.0/'>Creative Commons (BY) license</a> </small>" },
-      "background": { "color": "", "url": "https://c2.staticflickr.com/8/7388/27581522042_46da6be012_b.jpg" },
+      "background": { "color": "", "url": "media/ipad2.jpg" },
       "group": "Support"
     },
     {
@@ -212,7 +212,7 @@
       "display_date": "October 2016",
       "text": { "headline": "Professional Learning Center", "text": "Elkhart Education Foundation helped revamp our professional learning center for staff support." },
       "media": { "url": "", "credit": "Used by permission, (c) Wes Molyneaux" },
-      "background": { "color": "", "url": "https://lh3.googleusercontent.com/-CxU2ZdArIwg/WLWQzatimCI/AAAAAAAAAQM/liubMGWLdJU3YYBeffp4EuQVBkx1y2D5ACL0B/h1224/2017-02-28.jpg" },
+      "background": { "color": "", "url": "media/plc2.jpg" },
       "group": "Support"
     },
     {
@@ -228,15 +228,15 @@
       "display_date": "2017-2018",
       "text": { "headline": "Next stop...", "text": "" },
       "media": { "url": "<blockquote style='display:none'>lorem ipsum</blockquote>", "credit": "" },
-      "background": { "color": "", "url": "https://lh3.googleusercontent.com/-S1GDU0rJpfA/WLWaEsJfx-I/AAAAAAAAARQ/_nJZiBKKBvIRal8cNY9DQVo3Eam0H9vcACL0B/h1401/2017-02-28.jpg" },
+      "background": { "color": "", "url": "media/road.jpg" },
       "group": "Support"
     },
     {
       "start_date": { "year":2016  ,"month": 9},
       "display_date": "September 2016",
       "text": { "headline": "Efficacy", "text": "On-demand support, communication, team efficiency" },
-      "media": { "url": "media/instructional.png", "credit": "<a title='Network' href='https://flickr.com/photos/jennifer-stylls/8012538039'>Network</a> flickr photo by <a href='https://flickr.com/people/jennifer-stylls'>Jennifer Stylls</a> shared under a <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/'>Creative Commons (BY-NC-ND) license</a> </small>" },
-      "background": { "color": "", "url": "https://c1.staticflickr.com/9/8033/8012538039_0603ef72a8_b.jpg" },
+      "media": { "url": "media/instructional.png", "credit": "Brian Bennett" },
+      "background": { "color": "", "url": "" },
       "group": "Support"
     }
   ]
