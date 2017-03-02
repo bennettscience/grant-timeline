@@ -1,14 +1,4 @@
 {
-  "title": {
-    "text": {
-      "headline": "Elkhart Instructional Technology",
-      "text": "The Elkhart Instructional Technology team was founded in order to support teachers with their use of technology and expand learning opportunities for all students. This timeline shows our progress over the last 18 months."
-    },
-    "media": {
-      "credit": "<a title='The help form flowchart' href='https://flickr.com/photos/bennettscience/31746650114'>The help form flowchart</a> flickr photo by <a href='https://flickr.com/people/bennettscience'>bennettscience</a> shared under a <a href='https://creativecommons.org/licenses/by/2.0/'>Creative Commons (BY) license</a>"
-    },
-    "background": {"url": "https://c1.staticflickr.com/1/734/31746650114_dbc046833d_b.jpg" }
-  },
   "events": [
     {
       "start_date": { "year": 2016,"month": 1,"day": 10},
@@ -48,7 +38,7 @@
       "start_date": { "year": 2016 ,"month": 8,"day": 2 },
       "display_date": "August 2, 2016",
       "text": { "headline": "Chromebook carts delivered", "text": "Teachers who successfully compelted the TCT coursework received their Chromebook carts for the start of the fall semester." },
-      "media": { "url": "", "credit": "" },
+      "media": { "url": "https://lh3.googleusercontent.com/-hbFAygW9S4I/WLXMrMegV2I/AAAAAAAAAuw/PnIP18Tbk5kaRxpGSolKgeE2dODZV7qGwCK8B/s512/2017-02-28.jpg", "credit": "Brian Bennett" },
       "background": { "color": "", "url": "" },
       "group": "1:1 Selection"
     },
@@ -105,7 +95,7 @@
     {
       "start_date": { "year":  2017,"month": 1,"day": 17 },
       "display_date": "January 2017",
-      "text": { "headline": "Day 100", "text": "<ul style='font-size:24px;font-weight:bold'><li>3500+ PGPs awarded</li><li>3,000+ Chromebooks deployed</li><li>700+ teachers trained</li></ul>" },
+      "text": { "headline": "First 100 Days of School", "text": "<ul style='font-size:24px;font-weight:bold'><li>3500+ PGPs awarded</li><li>3,000+ Chromebooks deployed</li><li>700+ teachers trained</li></ul>" },
       "media": { "url": "", "credit": "<a title='Calendar' href='https://flickr.com/photos/b0xman/3697278061'>Calendar</a> flickr photo by <a href='https://flickr.com/people/b0xman'>boxman</a> shared under a <a href='https://creativecommons.org/licenses/by-nc/2.0/'>Creative Commons (BY-NC) license</a>" },
       "background": { "color": "", "url": "https://c1.staticflickr.com/3/2602/3697278061_4514d51c03_b.jpg" },
       "group": "Support"
@@ -123,8 +113,8 @@
       "start_date": { "year":  2017,"month": 1,"day":24 },
       "display_date": "January 24, 2017",
       "text": { "headline": "1:1 Device Selection", "text": "The 1:1 Committee unanimously decides to purchase iPads as the student computing device in Elkhart's 1:1 program." },
-      "media": { "url": "https://c1.staticflickr.com/5/4060/4647058825_3c7197a15a_b.jpg", "credit": "<a title='iPad' href='https://flickr.com/photos/yagankiely/4647058825'>iPad</a> flickr photo by <a href='https://flickr.com/people/yagankiely'>Yagan Kiely</a> shared under a <a href='https://creativecommons.org/licenses/by-sa/2.0/'>Creative Commons (BY-SA) license</a>" },
-      "background": { "color": "#666666", "url": "" },
+      "media": { "url": "", "credit": "<a title='student_ipad_school - 250' href='https://flickr.com/photos/56155476@N08/6660155203'>student_ipad_school - 250</a> flickr photo by <a href='https://flickr.com/people/56155476@N08'>flickingerbrad</a> shared under a <a href='https://creativecommons.org/licenses/by/2.0/'>Creative Commons (BY) license</a> </small>" },
+      "background": { "color": "", "url": "https://c2.staticflickr.com/8/7028/6660155203_89ea6b862f_b.jpg" },
       "group": "Support"
     },
     {
@@ -132,7 +122,7 @@
       "display_date": "January 2017",
       "text": { "headline": "Monday Beginner classes", "text": "Introductory courses for tentative users are held every Monday on a variety of tools, mainly focusing on Google and Canvas and their use in the district." },
       "media": { "url": "", "credit": "" },
-      "background": { "color": "", "url": "" },
+      "background": { "color": "", "url": "http://big.assets.huffingtonpost.com/2014officespace3.gif" },
       "group": "Training"
     },
     {
@@ -154,7 +144,7 @@
       "group": "Training"
     },
     {
-      "start_date": { "year": 2017 ,"month": 6,"day": 1},
+      "start_date": { "year": 2017 ,"month": 5,"day": 1},
       "display_date": "June 2017",
       "text": { "headline": "Instructional Cycle", "text": "Summer professional development and curriculum buidling." },
       "media": { "url": "https://lh3.googleusercontent.com/-OfPkrQ-_d5s/WLCGjovOetI/AAAAAAAAAr8/zznz0_sanLA3Votk-1xxGHyA523VyebwACL0B/h720/2017-02-24.gif", "credit": "Brian Bennett" },
@@ -166,7 +156,7 @@
       "display_date": "October 2016",
       "text": { "headline": "Strategic Plan Adopted", "text": "Elkhart Community Schools commits to building digital resources for students." },
       "media": { "url": "", "credit": "(c) Elkhart Community Schools" },
-      "background": { "color": "", "url": "https://lh3.googleusercontent.com/-2IstSrhUpjw/WLSF1SwPEjI/AAAAAAAAAtM/tLLrh9XJ2gwRgBE-9QZ_DjTC8JuPPX3CQCL0B/h829/Elkhart_Community_Schools_White.gif" },
+      "background": { "color": "", "url": "https://lh3.googleusercontent.com/-7OVMWnCk6Qw/WLXIK_kB7II/AAAAAAAAAuQ/78yiTWrbSIkJgSKT-VlAQakYIVNMfhnLACL0B/h981/Elkhart_Community_Schools_White_Crest_Only.gif" },
       "group": "Support"
     },
     {
@@ -181,7 +171,7 @@
       "start_date": { "year": 2016 ,"month": 3},
       "display_date": "March 2016",
       "text": { "headline": "G Suite", "text": "Teachers and students given access to all GSuite tools." },
-      "media": { "url": "https://gsuite.google.com/setup/assets/images/misc/logo-350x215.png", "credit": "(c) Google" },
+      "media": { "url": "http://meticul.com/blog/assets/g_suite-small-1.png", "credit": "Used by permission, (c) <a href='http://meticul.com'>Meticul Solutions</a>" },
       "background": { "color": "", "url": "" },
       "group": "Support"
     },
@@ -212,24 +202,24 @@
     {
       "start_date": { "year": 2017 ,"month":6 ,"day": 3},
       "display_date": "June 2017",
-      "text": { "headline": "Device Purchases", "text": "Devices for the Instructional Technology team to support district-wide training and curriculum development." },
+      "text": { "headline": "Device Purchases", "text": "Enable the Instructional Technology team to work more efficiently in supporting district-wide training and curriculum development." },
       "media": { "url": "", "credit": "<a title='Using iPads' href='https://flickr.com/photos/cogdog/27581522042'>Using iPads</a> flickr photo by <a href='https://flickr.com/people/cogdog'>cogdogblog</a> shared under a <a href='https://creativecommons.org/licenses/by/2.0/'>Creative Commons (BY) license</a> </small>" },
       "background": { "color": "", "url": "https://c2.staticflickr.com/8/7388/27581522042_46da6be012_b.jpg" },
       "group": "Support"
     },
     {
       "start_date": { "year":2016  ,"month": 10,"day": 15},
-      "display_date": "October 2015",
-      "text": { "headline": "Revamped Professional Learning Center", "text": "Elkhart Education Foundation helped revamp our professional learning center for staff support." },
+      "display_date": "October 2016",
+      "text": { "headline": "Professional Learning Center", "text": "Elkhart Education Foundation helped revamp our professional learning center for staff support." },
       "media": { "url": "", "credit": "Used by permission, (c) Wes Molyneaux" },
       "background": { "color": "", "url": "https://lh3.googleusercontent.com/-CxU2ZdArIwg/WLWQzatimCI/AAAAAAAAAQM/liubMGWLdJU3YYBeffp4EuQVBkx1y2D5ACL0B/h1224/2017-02-28.jpg" },
       "group": "Support"
     },
     {
       "start_date": { "year":2016  ,"month": 12,"day": 1},
-      "display_date": "December 2016",
-      "text": { "headline": "Parent Night", "text": "" },
-      "media": { "url": "", "credit": "" },
+      "display_date": "2016 - 2018",
+      "text": { "headline": "1:1 Rollout", "text": "" },
+      "media": { "url": "<iframe src='iframe.html'></iframe>", "credit": "" },
       "background": { "color": "", "url": "" },
       "group": "Support"
     },
@@ -237,7 +227,7 @@
       "start_date": { "year": 2017 ,"month": 8,"day": 12},
       "display_date": "2017-2018",
       "text": { "headline": "Next stop...", "text": "" },
-      "media": { "url": "<blockquote style='display:none'>lorem ipsum</blockquote>", "credit": "Used by permission, (c) Elliot Lubker" },
+      "media": { "url": "<blockquote style='display:none'>lorem ipsum</blockquote>", "credit": "" },
       "background": { "color": "", "url": "https://lh3.googleusercontent.com/-S1GDU0rJpfA/WLWaEsJfx-I/AAAAAAAAARQ/_nJZiBKKBvIRal8cNY9DQVo3Eam0H9vcACL0B/h1401/2017-02-28.jpg" },
       "group": "Support"
     },
@@ -245,8 +235,8 @@
       "start_date": { "year":2016  ,"month": 9},
       "display_date": "September 2016",
       "text": { "headline": "Efficacy", "text": "On-demand support, communication, team efficiency" },
-      "media": { "url": "", "credit": "" },
-      "background": { "color": "", "url": "" },
+      "media": { "url": "instructional.png", "credit": "<a title='Network' href='https://flickr.com/photos/jennifer-stylls/8012538039'>Network</a> flickr photo by <a href='https://flickr.com/people/jennifer-stylls'>Jennifer Stylls</a> shared under a <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/'>Creative Commons (BY-NC-ND) license</a> </small>" },
+      "background": { "color": "", "url": "https://c1.staticflickr.com/9/8033/8012538039_0603ef72a8_b.jpg" },
       "group": "Support"
     }
   ]
