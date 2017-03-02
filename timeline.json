@@ -147,7 +147,7 @@
       "start_date": { "year": 2017 ,"month": 5,"day": 1},
       "display_date": "June 2017",
       "text": { "headline": "Instructional Cycle", "text": "Summer professional development and curriculum buidling." },
-      "media": { "url": "<iframe src='video.html'></iframe>", "credit": "Brian Bennett" },
+      "media": { "url": "<iframe src='video.html'></iframe>", "credit": "CC-BY Brian Bennett" },
       "background": { "color": "", "url": "" },
       "group": "Support"
     },
